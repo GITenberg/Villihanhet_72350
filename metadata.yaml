@@ -1,0 +1,36 @@
+_repo: Villihanhet_72350
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setälä, Helmi
+    - Setala, Helmi
+    - Helmi Setälä
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+    wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+creator:
+  author:
+    agent_name: Ostensoe, Martha
+    gutenberg_agent_id: '56651'
+    url: http://www.gutenberg.org/2009/agents/56651
+description: ''
+gutenberg_issued: '2023-12-07'
+identifiers:
+  gutenberg: '72350'
+language: fi
+pgterms:marc905: 20231009083246ostensoe
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bHolger Schildts Kust.Oy, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Villihanhet
+url: http://www.gutenberg.org/ebooks/72350
